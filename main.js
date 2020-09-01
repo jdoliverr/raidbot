@@ -1,3 +1,4 @@
+require('dotenv').config();
 const Discord = require('discord.js');
 
 const client = new Discord.Client();
@@ -18,7 +19,6 @@ for (const file of commandFiles) {
 
 client.once('ready', () => {
     console.log('RaidBot is online!');
-    console.log(process.env.TOKEN)
 });
 
 client.on('message', message => {
@@ -28,13 +28,7 @@ client.on('message', message => {
     const command = args.shift().toLowerCase();
 
     client.commands.get(command).execute(message, args)
-    // if (command === 'hello') {
-    //     client.commands.get('hello').execute(message, args)
-    // } else if (command === 'youtube') {
-    //     client.commands.get('youtube').execute(message, args)
-    // } else if (command === 'spreadsheet') {
-    //     client.commands.get('spreadsheet').execute(message, args)
-    // }
+    
 });
 
-client.login();
+client.login(process.env.TOKEN);
