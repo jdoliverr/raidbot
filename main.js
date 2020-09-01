@@ -18,6 +18,7 @@ for (const file of commandFiles) {
 
 client.once('ready', () => {
     console.log('RaidBot is online!');
+    console.log(process.env.TOKEN)
 });
 
 client.on('message', message => {
@@ -36,4 +37,4 @@ client.on('message', message => {
     // }
 });
 
-client.login('NzUwNDc0Nzk5NTUzMTgzODY1.X07EHw.Fq-UORApbA5LloHH6KTxF-5fYE4');
+client.login();
