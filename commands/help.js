@@ -11,6 +11,7 @@ module.exports = {
 **!darkness**
 **!shivaone**
 **!shivatwo**
+**!friend**
         `);
     }
 };
