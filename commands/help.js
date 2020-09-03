@@ -7,6 +7,10 @@ module.exports = {
 **!spreadsheet**
 **!ramuh**
 **!raid**
+**!garuda**
+**!darkness**
+**!shivaone**
+**!shivatwo**
         `);
     }
 };
