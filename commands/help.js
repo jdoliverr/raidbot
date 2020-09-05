@@ -5,12 +5,12 @@ module.exports = {
         message.channel.send(`
         Commands-
 **!spreadsheet**
-**!ramuh**
 **!raid**
-**!garuda**
-**!darkness**
-**!shivaone**
-**!shivatwo**
+**!E5S**
+**!E6S**
+**!E7S**
+**!E8Sone**
+**!E8Stwo**
 **!friend**
         `);
     }
