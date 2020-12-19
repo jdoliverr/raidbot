@@ -2,6 +2,6 @@ module.exports = {
     name: 'dnc',
     description: 'dancer build',
     execute(message, args) {
-        message.channel.send('https://etro.gg/gearset/c2266309-640a-4383-81c5-66c1b2e16ac9');
+        message.channel.send('https://etro.gg/gearset/f904b72c-7e83-4b25-aace-38f7956b6728');
     }
 };

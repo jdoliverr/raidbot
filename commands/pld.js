@@ -2,6 +2,6 @@ module.exports = {
     name: 'pld',
     description: 'paladin build',
     execute(message, args) {
-        message.channel.send('https://etro.gg/gearset/271eefd6-fff6-40d3-97e2-8e1c8f065e17');
+        message.channel.send('https://etro.gg/gearset/a96250be-bc40-48e5-8a14-62e1867c3d2f');
     }
 };
