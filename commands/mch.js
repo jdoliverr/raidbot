@@ -2,6 +2,6 @@ module.exports = {
     name: 'mch',
     description: 'machinist build',
     execute(message, args) {
-        message.channel.send('https://etro.gg/gearset/0fe030b5-de18-4c2f-a594-c85db9ba8b40');
+        message.channel.send('https://etro.gg/gearset/19d544db-e8da-4663-b2fa-6a420c38ff21');
     }
 };

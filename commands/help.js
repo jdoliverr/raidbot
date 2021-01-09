@@ -4,6 +4,7 @@ module.exports = {
     execute(message, args) {
         message.channel.send(`
         Commands-
+**!notes** - Raid notes
 **!spreadsheet** - Raid group spreadsheet
 **!raid** - Raid Schedule
 **!E5S** - E5S guide
