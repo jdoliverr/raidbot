@@ -7,12 +7,10 @@ module.exports = {
 **!notes** - Raid notes
 **!spreadsheet** - Raid group spreadsheet
 **!raid** - Raid Schedule
-**!E5S** - E5S guide
-**!E6S** - E6S guide
-**!E7S** - E7S guide
-**!E8Sone** - E8S guide part one
-**!E8Stwo** - E8S guide part two
-**!friend**
+**!E9S** - E9 Savage guide
+**!E10S** - E10 Savage guide
+**!E11S** - E11 Savage guide
+**!E12S** - E12 Savage guide
 Healers
 **!WHM** - White mage build
 **!AST** - Astro build
