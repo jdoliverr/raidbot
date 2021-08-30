@@ -2,6 +2,6 @@ module.exports = {
     name: 'nin',
     description: 'ninja build',
     execute(message, args) {
-        message.channel.send('https://etro.gg/gearset/a0c470fd-b94b-425a-baa6-4a6638ce7b18');
+        message.channel.send('https://etro.gg/gearset/dec9811d-c02c-4378-b046-d3cebe42eccb');
     }
 };
