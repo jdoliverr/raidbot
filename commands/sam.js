@@ -2,7 +2,7 @@ module.exports = {
     name: 'sam',
     description: 'samurai build',
     execute(message, args) {
-        message.channel.send(`Slow Sam: https://etro.gg/gearset/6086e5c2-52bc-4c6c-83cb-39cfbbf3a93b
-        Fast Sam: https://etro.gg/gearset/7a512a2f-b1ea-42fd-86b4-13bff52b4f2d`);
+        message.channel.send(`Slow Sam: https://etro.gg/gearset/74252e32-cab1-4d8b-8068-c37926353ac9
+        Fast Sam: https://etro.gg/gearset/53b1f776-8d5f-4969-9cbf-6153f5228c9d`);
     }
 };

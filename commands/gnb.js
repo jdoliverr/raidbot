@@ -2,6 +2,7 @@ module.exports = {
     name: 'gnb',
     description: 'gunbreaker build',
     execute(message, args) {
-        message.channel.send('https://etro.gg/gearset/6f5d9ece-2deb-4226-b4a8-9c32440ee2fd');
+        message.channel.send(`Relic: https://etro.gg/gearset/ec8a3fa3-4f6e-46df-9fe7-7127bfc0607d
+        Raid: https://etro.gg/gearset/3a00ff65-fd0d-45b0-adc1-f4f1a6a2b69a`);
     }
 };
